@@ -12,3 +12,11 @@ Our aim is to address this problem by creating a WE BAND which will detect depre
 ## HARDWARE
 ![HARDWARE](https://github.com/somya-kapoor/WE-Band/blob/master/Images/hardware.png)
 
+## Position Of Responsibility for me:
+- Data Processing
+  - Data Cleaning
+  - Data Visualisation
+  - Feature Extraction
+- IoT 
+  - Hardware
+
