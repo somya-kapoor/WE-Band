@@ -20,3 +20,6 @@ Our aim is to address this problem by creating a WE BAND which will detect depre
 - IoT 
   - Hardware
   - Processing
+  
+## Our Team
+Somya Kapoor, Maitree Rawat, Manya Jain and Cheshta Nagpal
