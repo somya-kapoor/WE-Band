@@ -19,4 +19,4 @@ Our aim is to address this problem by creating a WE BAND which will detect depre
   - Feature Extraction
 - IoT 
   - Hardware
-
+  - Processing
