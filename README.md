@@ -7,5 +7,5 @@ Depression is a common mental disorder. Globally, more than 300 million people o
 Our aim is to address this problem by creating a WE BAND which will detect depression, its levels and will provide with the best solution. These levels will be calculated with the help of Google search history of the user and fluctuation in the concentration of specific chemicals which account for depression in the body.
 
 ## WORKFLOW
-![WORKFLOW](https://photos.app.goo.gl/E6ZBn1itbtHz68697)
+![WORKFLOW](https://github.com/somya-kapoor/WE-Band/blob/master/we-band.png)
 
