@@ -3,7 +3,7 @@
 Somya Kapoor, Maitree Rawat, Manya Jain and Cheshta Nagpal
 
 ## GOALS
-Our aim is to address this problem by creating a WE BAND which will detect stress, its levels and will provide with the best solution. .
+Our aim is to address this problem by creating a WE BAND which will detect stress, its levels and will provide with the best solution.
 
 ## WORKFLOW
 ![WORKFLOW](https://github.com/somya-kapoor/WE-Band/blob/master/Images/we-band.png)
