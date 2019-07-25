@@ -11,6 +11,9 @@ Our aim is to address this problem by creating a WE BAND which will detect stres
 ## HARDWARE
 ![HARDWARE](https://github.com/somya-kapoor/WE-Band/blob/master/Images/hardware.png)
 
+## DATA
+![DATA](https://github.com/somya-kapoor/WE-Band/blob/master/Images/data.jpg)
+
 ## Position Of Responsibility for me:
 - Data Processing
   - Data Cleaning
