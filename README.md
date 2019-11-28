@@ -21,7 +21,5 @@ High Erreneous Values
   - Data Cleaning
   - Data Visualisation
   - Feature Extraction
-- IoT 
-  - Hardware
-  - Processing
+
   
