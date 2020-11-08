@@ -1,6 +1,6 @@
 # WE-Band
 ## Report
-![Report](https://docs.google.com/document/d/1NRAoHafccZ_sO9QwvhOfpGtbuQRoBC2CvcNroL-_GMM)
+[Report](https://docs.google.com/document/d/1NRAoHafccZ_sO9QwvhOfpGtbuQRoBC2CvcNroL-_GMM)
 ## About 
 Depression is a common mental disorder. Globally, more than 300 million people of all ages suffer from depression. It is the leading cause of disability worldwide and is a significant contributor to the overall global burden of disease. At its worst, depression can lead to suicide. Another alarming revelation is that more than 50% of the population
 is not aware that they are suffering from depression.
